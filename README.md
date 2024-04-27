@@ -1,2 +1,2 @@
-# houdiniUtils
+# Houdini Utils
 Houdini workshop utilities
